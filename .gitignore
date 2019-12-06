@@ -1,0 +1,2 @@
+#This makes sure no system fles are uploaded to GitHub
+.DS_Store
